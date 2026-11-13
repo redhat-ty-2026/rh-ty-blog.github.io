@@ -64,20 +64,12 @@ on Wednesday we did another stand u with nigel, after the stand up will taught u
 ---
 
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/3d094163-3648-4b8a-bd6d-88cc06bb7a3a" />
+
 
 **This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
 ---
-
+on thursday we were taught about zooniverse, zooniverse is a website that scientists can upload data and get the publicto help in finding the result or answer, we were also given a talk about AI and how to use AI ethically and we used AI to present a topic we were assigned, our group did Green coding and sustainable software development
 
 ## Friday
 
